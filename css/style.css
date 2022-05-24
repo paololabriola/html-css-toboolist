@@ -42,6 +42,7 @@ ul{
 
 /* LIST */
 .circle{
+    line-height: 15px;
     border: 1px solid;
     border-radius: 50%;
     display: inline-block;
